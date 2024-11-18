@@ -1,0 +1,5 @@
+RENCANA KONTEN AB
+- Javascript
+- PHP Framework
+- Interview
+- Vlogs
